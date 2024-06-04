@@ -1,0 +1,47 @@
+form{
+    border-color:"green"
+    height: 300px;
+    margin-left: 200px;
+    margin-top: 150px;
+    width:300px;
+
+    background-color: rgb(223, 221, 236);
+    
+    display:flex
+    
+    
+
+}
+form-box {
+    padding-left: 100px;
+    
+}
+input{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    min: height 6px;
+    border-radius: 10px;
+    background:rgb(237, 237, 15);
+}
+
+
+
+
+    
+
+ 
+ 
+ .ashok{
+    padding-left:0x;
+    padding-top: 10px;
+    margin-left: 60px;
+    
+
+    
+ body{
+    background-color: rgb(224, 224, 242);
+    
+ }
+ }
